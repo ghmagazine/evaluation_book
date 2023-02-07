@@ -8,6 +8,6 @@ def _read_requires_text_from_file(filename):
 setup(
     name="embook",
     version="0.0.1",
-    python_requires=">=3.8.0",
+    python_requires=">=3.9.0",
     install_requires=_read_requires_text_from_file('requirements.txt'),
 )
