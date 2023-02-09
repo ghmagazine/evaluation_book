@@ -19,5 +19,5 @@
 │       ├── test.csv
 │       └── train.csv
 └── notebook
-    └── 多クラス分類の評価指標.ipynb
+    └── multi-class-classification.ipynb
 ```

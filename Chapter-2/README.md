@@ -25,5 +25,5 @@
 │   ├── air_visit_data.csv
 │   └── date_info.csv
 └── notebook
-    └── 回帰の評価指標.ipynb
+    └── Evaluation_for_regression.ipynb
 ```

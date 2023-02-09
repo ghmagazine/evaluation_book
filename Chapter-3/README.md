@@ -23,5 +23,5 @@
 │   ├── test.csv  # hr-anaのtest.csv
 │   └── train.csv # hr-anaのtrain.csv
 └── notebook
-    └── 二値分類における評価指標.ipynb
+    └── Evaluation_for_binary_classifications.ipynb
 ```
